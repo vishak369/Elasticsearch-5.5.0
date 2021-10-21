@@ -1,2 +1,3 @@
 # Dockerfiles
-Spin up docker containers 
+Elasticsearch-5.5.0 Dockerfile
+jdk-8
